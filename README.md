@@ -6,8 +6,3 @@ This repo contains:
 - Login / Register
 - List Items
 pages using the Web API above. New features and pages will be added soon.
-
-
-
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
